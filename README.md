@@ -1,2 +1,3 @@
+## Asncombes Quartet - An Investigation
 
-https://heapanalytics.com/blog/data-stories/anscombes-quartet-and-why-summary-statistics-dont-tell-the-whole-story
+This repository is an investigation into Ascombe's Quartet.  The full investigation is Jupyte contained in the Jupyter Notebook.
